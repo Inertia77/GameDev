@@ -1,0 +1,6 @@
+有什么想法直接在README.md里面说也可以
+
+merge主要merge分支dev_inertia和dev_reinhard
+然后remote或者pull了之后本地也可以看到
+
+main分支就先不动了。
